@@ -54,8 +54,8 @@ channels_config = {
         "regex": r"\b[a-zA-Z0-9]{5,}\b",
         "bot": "@almalaki_ichancy_bot"
     },
-    "monkeyking81": {
-        "username": "monkeyking81",
+    "moneyking81": {
+        "username": "moneyking81",
         "regex": r"الكود:\s*([a-zA-Z0-9]+)",
         "bot": "@ichancy_money_bot",
         "pick_third": True
