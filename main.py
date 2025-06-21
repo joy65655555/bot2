@@ -63,8 +63,7 @@ channels_config = {
     "ichancy_hunter_bot1": {
         "username": "ichancy_hunter_bot1",
         "regex":  r"\b[a-zA-Z0-9]{6,}\b",
-        "bot": "@ichancy_hunter_bot",
-        "pick_third": True
+        "bot": "@ichancy_hunter_bot"
     },
 }
 
