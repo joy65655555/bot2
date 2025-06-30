@@ -65,6 +65,11 @@ channels_config = {
         "regex":  r"\b[a-zA-Z0-9]{6,}\b",
         "bot": "@ichancy_hunter_bot"
     },
+    "lucky_Robert": {
+        "username": "lucky_Robert",
+        "regex":  r"\b[a-zA-Z0-9]{6,}\b",
+        "bot": "@ichancy_lucky_bot"
+    },
 }
 
 # تهيئة العميل
