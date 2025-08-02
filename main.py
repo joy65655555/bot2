@@ -70,6 +70,11 @@ channels_config = {
         "regex":  r"\b[a-zA-Z0-9]{6,}\b",
         "bot": "@ichancy_lucky_bot"
     },
+    "leaderichancybot": {
+        "username": "leaderichancybot",
+        "regex":  r"\b[a-zA-Z0-9]{6,}\b",
+        "bot": "@Leader_iChancyBot"
+    },
 }
 
 # تهيئة العميل
@@ -167,3 +172,4 @@ async def start_all():
 
 if __name__ == "__main__":
     asyncio.run(start_all())
+
